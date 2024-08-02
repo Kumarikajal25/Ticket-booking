@@ -8,11 +8,14 @@ Online Movie Ticket Booking
 
 # Overview
 Developed and maintained a comprehensive ticket booking application designed to streamline the process of reserving seats for cinema shows. The application features a robust and dynamic layout system tailored to accommodate various cinema hall configurations with flexible rows and columns. It leverages a combination of modern technologies for both the server-side and client-side to provide a seamless user experience.
-
 ### Technologies Used:
-**Server-Side:** Node.js, Express.js, MongoDB
-**Client-Side:** React.js, Tailwind CSS
-**Real-Time Communication:** Socket.io
-**Authentication:** JWT (JSON Web Tokens)
-**Payment Gateway:** Stripe
+- **Server-Side:** Node.js, Express.js, MongoDB.
+- **Client-Side:** React.js, Tailwind CSS.
+- **Real-Time Communication:** Socket.io
+- **Authentication:** JWT (JSON Web Tokens).
+- **Payment Gateway:** Stripe.
 # Features
+- **Dynamic Layout:** Customizable cinema hall configurations with varying rows and columns.
+- **Real-Time Booking:** Seat availability and booking status updated live using Socket.io.
+- **Secure Authentication:** JWT-based login and session management for data protection.
+- **Payment Integration:** Secure transactions handled through Stripe.
